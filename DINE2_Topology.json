@@ -1,0 +1,1876 @@
+{
+    "Cache Topology L1": {
+        "Associativity:": 12,
+        "Cache groups:": [
+            [
+                0,
+                96
+            ],
+            [
+                2,
+                66
+            ],
+            [
+                4,
+                68
+            ],
+            [
+                6,
+                70
+            ],
+            [
+                8,
+                72
+            ],
+            [
+                10,
+                74
+            ],
+            [
+                12,
+                76
+            ],
+            [
+                14,
+                78
+            ],
+            [
+                16,
+                80
+            ],
+            [
+                18,
+                82
+            ],
+            [
+                20,
+                84
+            ],
+            [
+                22,
+                86
+            ],
+            [
+                24,
+                88
+            ],
+            [
+                26,
+                90
+            ],
+            [
+                28,
+                92
+            ],
+            [
+                30,
+                94
+            ],
+            [
+                32,
+                64
+            ],
+            [
+                34,
+                98
+            ],
+            [
+                36,
+                100
+            ],
+            [
+                38,
+                102
+            ],
+            [
+                40,
+                104
+            ],
+            [
+                42,
+                106
+            ],
+            [
+                44,
+                108
+            ],
+            [
+                46,
+                110
+            ],
+            [
+                48,
+                112
+            ],
+            [
+                50,
+                114
+            ],
+            [
+                52,
+                116
+            ],
+            [
+                54,
+                118
+            ],
+            [
+                56,
+                120
+            ],
+            [
+                58,
+                122
+            ],
+            [
+                60,
+                124
+            ],
+            [
+                62,
+                126
+            ],
+            [
+                1,
+                65
+            ],
+            [
+                3,
+                67
+            ],
+            [
+                5,
+                69
+            ],
+            [
+                7,
+                71
+            ],
+            [
+                9,
+                73
+            ],
+            [
+                11,
+                75
+            ],
+            [
+                13,
+                77
+            ],
+            [
+                15,
+                79
+            ],
+            [
+                17,
+                81
+            ],
+            [
+                19,
+                83
+            ],
+            [
+                21,
+                85
+            ],
+            [
+                23,
+                87
+            ],
+            [
+                25,
+                89
+            ],
+            [
+                27,
+                91
+            ],
+            [
+                29,
+                93
+            ],
+            [
+                31,
+                95
+            ],
+            [
+                33,
+                97
+            ],
+            [
+                35,
+                99
+            ],
+            [
+                37,
+                101
+            ],
+            [
+                39,
+                103
+            ],
+            [
+                41,
+                105
+            ],
+            [
+                43,
+                107
+            ],
+            [
+                45,
+                109
+            ],
+            [
+                47,
+                111
+            ],
+            [
+                49,
+                113
+            ],
+            [
+                51,
+                115
+            ],
+            [
+                53,
+                117
+            ],
+            [
+                55,
+                119
+            ],
+            [
+                57,
+                121
+            ],
+            [
+                59,
+                123
+            ],
+            [
+                61,
+                125
+            ],
+            [
+                63,
+                127
+            ]
+        ],
+        "Cache line size:": 64,
+        "Cache type:": "Non Inclusive",
+        "Level:": 1,
+        "Number of sets:": 64,
+        "Shared by threads:": 2,
+        "Size:": "48 kB",
+        "Type:": "Data cache"
+    },
+    "Cache Topology L2": {
+        "Associativity:": 16,
+        "Cache groups:": [
+            [
+                0,
+                96
+            ],
+            [
+                2,
+                66
+            ],
+            [
+                4,
+                68
+            ],
+            [
+                6,
+                70
+            ],
+            [
+                8,
+                72
+            ],
+            [
+                10,
+                74
+            ],
+            [
+                12,
+                76
+            ],
+            [
+                14,
+                78
+            ],
+            [
+                16,
+                80
+            ],
+            [
+                18,
+                82
+            ],
+            [
+                20,
+                84
+            ],
+            [
+                22,
+                86
+            ],
+            [
+                24,
+                88
+            ],
+            [
+                26,
+                90
+            ],
+            [
+                28,
+                92
+            ],
+            [
+                30,
+                94
+            ],
+            [
+                32,
+                64
+            ],
+            [
+                34,
+                98
+            ],
+            [
+                36,
+                100
+            ],
+            [
+                38,
+                102
+            ],
+            [
+                40,
+                104
+            ],
+            [
+                42,
+                106
+            ],
+            [
+                44,
+                108
+            ],
+            [
+                46,
+                110
+            ],
+            [
+                48,
+                112
+            ],
+            [
+                50,
+                114
+            ],
+            [
+                52,
+                116
+            ],
+            [
+                54,
+                118
+            ],
+            [
+                56,
+                120
+            ],
+            [
+                58,
+                122
+            ],
+            [
+                60,
+                124
+            ],
+            [
+                62,
+                126
+            ],
+            [
+                1,
+                65
+            ],
+            [
+                3,
+                67
+            ],
+            [
+                5,
+                69
+            ],
+            [
+                7,
+                71
+            ],
+            [
+                9,
+                73
+            ],
+            [
+                11,
+                75
+            ],
+            [
+                13,
+                77
+            ],
+            [
+                15,
+                79
+            ],
+            [
+                17,
+                81
+            ],
+            [
+                19,
+                83
+            ],
+            [
+                21,
+                85
+            ],
+            [
+                23,
+                87
+            ],
+            [
+                25,
+                89
+            ],
+            [
+                27,
+                91
+            ],
+            [
+                29,
+                93
+            ],
+            [
+                31,
+                95
+            ],
+            [
+                33,
+                97
+            ],
+            [
+                35,
+                99
+            ],
+            [
+                37,
+                101
+            ],
+            [
+                39,
+                103
+            ],
+            [
+                41,
+                105
+            ],
+            [
+                43,
+                107
+            ],
+            [
+                45,
+                109
+            ],
+            [
+                47,
+                111
+            ],
+            [
+                49,
+                113
+            ],
+            [
+                51,
+                115
+            ],
+            [
+                53,
+                117
+            ],
+            [
+                55,
+                119
+            ],
+            [
+                57,
+                121
+            ],
+            [
+                59,
+                123
+            ],
+            [
+                61,
+                125
+            ],
+            [
+                63,
+                127
+            ]
+        ],
+        "Cache line size:": 64,
+        "Cache type:": "Non Inclusive",
+        "Level:": 2,
+        "Number of sets:": 2048,
+        "Shared by threads:": 2,
+        "Size:": "2 MB",
+        "Type:": "Unified cache"
+    },
+    "Cache Topology L3": {
+        "Associativity:": 15,
+        "Cache groups:": [
+            [
+                0,
+                96,
+                2,
+                66,
+                4,
+                68,
+                6,
+                70,
+                8,
+                72,
+                10,
+                74,
+                12,
+                76,
+                14,
+                78,
+                16,
+                80,
+                18,
+                82,
+                20,
+                84,
+                22,
+                86,
+                24,
+                88,
+                26,
+                90,
+                28,
+                92,
+                30,
+                94,
+                32,
+                64,
+                34,
+                98,
+                36,
+                100,
+                38,
+                102,
+                40,
+                104,
+                42,
+                106,
+                44,
+                108,
+                46,
+                110,
+                48,
+                112,
+                50,
+                114,
+                52,
+                116,
+                54,
+                118,
+                56,
+                120,
+                58,
+                122,
+                60,
+                124,
+                62,
+                126
+            ],
+            [
+                1,
+                65,
+                3,
+                67,
+                5,
+                69,
+                7,
+                71,
+                9,
+                73,
+                11,
+                75,
+                13,
+                77,
+                15,
+                79,
+                17,
+                81,
+                19,
+                83,
+                21,
+                85,
+                23,
+                87,
+                25,
+                89,
+                27,
+                91,
+                29,
+                93,
+                31,
+                95,
+                33,
+                97,
+                35,
+                99,
+                37,
+                101,
+                39,
+                103,
+                41,
+                105,
+                43,
+                107,
+                45,
+                109,
+                47,
+                111,
+                49,
+                113,
+                51,
+                115,
+                53,
+                117,
+                55,
+                119,
+                57,
+                121,
+                59,
+                123,
+                61,
+                125,
+                63,
+                127
+            ]
+        ],
+        "Cache line size:": 64,
+        "Cache type:": "Non Inclusive",
+        "Level:": 3,
+        "Number of sets:": 65536,
+        "Shared by threads:": 64,
+        "Size:": "60 MB",
+        "Type:": "Unified cache"
+    },
+    "Hardware Thread Topology": {
+        "CPU dies:": 2,
+        "Cores per socket:": 32,
+        "Sockets:": 2
+    },
+    "Info": {
+        "CPU name:": "Intel(R) Xeon(R) Gold 6430",
+        "CPU stepping:": 8,
+        "CPU type:": "Intel SapphireRapids processor"
+    },
+    "NUMA Topology 0": {
+        "Distances:": [
+            10,
+            21
+        ],
+        "Domain:": 0,
+        "Free memory:": "994774 MB",
+        "Processors:": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60,
+            62,
+            64,
+            66,
+            68,
+            70,
+            72,
+            74,
+            76,
+            78,
+            80,
+            82,
+            84,
+            86,
+            88,
+            90,
+            92,
+            94,
+            96,
+            98,
+            100,
+            102,
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124,
+            126
+        ],
+        "Total memory:": "1.0315e+06 MB"
+    },
+    "NUMA Topology 1": {
+        "Distances:": [
+            21,
+            10
+        ],
+        "Domain:": 1,
+        "Free memory:": "933597 MB",
+        "Processors:": [
+            1,
+            3,
+            5,
+            7,
+            9,
+            11,
+            13,
+            15,
+            17,
+            19,
+            21,
+            23,
+            25,
+            27,
+            29,
+            31,
+            33,
+            35,
+            37,
+            39,
+            41,
+            43,
+            45,
+            47,
+            49,
+            51,
+            53,
+            55,
+            57,
+            59,
+            61,
+            63,
+            65,
+            67,
+            69,
+            71,
+            73,
+            75,
+            77,
+            79,
+            81,
+            83,
+            85,
+            87,
+            89,
+            91,
+            93,
+            95,
+            97,
+            99,
+            101,
+            103,
+            105,
+            107,
+            109,
+            111,
+            113,
+            115,
+            117,
+            119,
+            121,
+            123,
+            125,
+            127
+        ],
+        "Total memory:": "1.03212e+06 MB"
+    },
+    "Sockets": {
+        "Socket 0:": [
+            0,
+            96,
+            2,
+            66,
+            4,
+            68,
+            6,
+            70,
+            8,
+            72,
+            10,
+            74,
+            12,
+            76,
+            14,
+            78,
+            16,
+            80,
+            18,
+            82,
+            20,
+            84,
+            22,
+            86,
+            24,
+            88,
+            26,
+            90,
+            28,
+            92,
+            30,
+            94,
+            32,
+            64,
+            34,
+            98,
+            36,
+            100,
+            38,
+            102,
+            40,
+            104,
+            42,
+            106,
+            44,
+            108,
+            46,
+            110,
+            48,
+            112,
+            50,
+            114,
+            52,
+            116,
+            54,
+            118,
+            56,
+            120,
+            58,
+            122,
+            60,
+            124,
+            62,
+            126
+        ],
+        "Socket 1:": [
+            1,
+            65,
+            3,
+            67,
+            5,
+            69,
+            7,
+            71,
+            9,
+            73,
+            11,
+            75,
+            13,
+            77,
+            15,
+            79,
+            17,
+            81,
+            19,
+            83,
+            21,
+            85,
+            23,
+            87,
+            25,
+            89,
+            27,
+            91,
+            29,
+            93,
+            31,
+            95,
+            33,
+            97,
+            35,
+            99,
+            37,
+            101,
+            39,
+            103,
+            41,
+            105,
+            43,
+            107,
+            45,
+            109,
+            47,
+            111,
+            49,
+            113,
+            51,
+            115,
+            53,
+            117,
+            55,
+            119,
+            57,
+            121,
+            59,
+            123,
+            61,
+            125,
+            63,
+            127
+        ]
+    },
+    "Topology": [
+        {
+            "Core": 0,
+            "Die": 0,
+            "HWThread": 0,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 32,
+            "Die": 0,
+            "HWThread": 1,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 1,
+            "Die": 0,
+            "HWThread": 2,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 33,
+            "Die": 0,
+            "HWThread": 3,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 2,
+            "Die": 0,
+            "HWThread": 4,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 34,
+            "Die": 0,
+            "HWThread": 5,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 3,
+            "Die": 0,
+            "HWThread": 6,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 35,
+            "Die": 0,
+            "HWThread": 7,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 4,
+            "Die": 0,
+            "HWThread": 8,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 36,
+            "Die": 0,
+            "HWThread": 9,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 5,
+            "Die": 0,
+            "HWThread": 10,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 37,
+            "Die": 0,
+            "HWThread": 11,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 6,
+            "Die": 0,
+            "HWThread": 12,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 38,
+            "Die": 0,
+            "HWThread": 13,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 7,
+            "Die": 0,
+            "HWThread": 14,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 39,
+            "Die": 0,
+            "HWThread": 15,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 8,
+            "Die": 0,
+            "HWThread": 16,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 40,
+            "Die": 0,
+            "HWThread": 17,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 9,
+            "Die": 0,
+            "HWThread": 18,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 41,
+            "Die": 0,
+            "HWThread": 19,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 10,
+            "Die": 0,
+            "HWThread": 20,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 42,
+            "Die": 0,
+            "HWThread": 21,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 11,
+            "Die": 0,
+            "HWThread": 22,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 43,
+            "Die": 0,
+            "HWThread": 23,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 12,
+            "Die": 0,
+            "HWThread": 24,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 44,
+            "Die": 0,
+            "HWThread": 25,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 13,
+            "Die": 0,
+            "HWThread": 26,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 45,
+            "Die": 0,
+            "HWThread": 27,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 14,
+            "Die": 0,
+            "HWThread": 28,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 46,
+            "Die": 0,
+            "HWThread": 29,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 15,
+            "Die": 0,
+            "HWThread": 30,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 47,
+            "Die": 0,
+            "HWThread": 31,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 16,
+            "Die": 0,
+            "HWThread": 32,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 48,
+            "Die": 0,
+            "HWThread": 33,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 17,
+            "Die": 0,
+            "HWThread": 34,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 49,
+            "Die": 0,
+            "HWThread": 35,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 18,
+            "Die": 0,
+            "HWThread": 36,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 50,
+            "Die": 0,
+            "HWThread": 37,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 19,
+            "Die": 0,
+            "HWThread": 38,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 51,
+            "Die": 0,
+            "HWThread": 39,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 20,
+            "Die": 0,
+            "HWThread": 40,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 52,
+            "Die": 0,
+            "HWThread": 41,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 21,
+            "Die": 0,
+            "HWThread": 42,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 53,
+            "Die": 0,
+            "HWThread": 43,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 22,
+            "Die": 0,
+            "HWThread": 44,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 54,
+            "Die": 0,
+            "HWThread": 45,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 23,
+            "Die": 0,
+            "HWThread": 46,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 55,
+            "Die": 0,
+            "HWThread": 47,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 24,
+            "Die": 0,
+            "HWThread": 48,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 56,
+            "Die": 0,
+            "HWThread": 49,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 25,
+            "Die": 0,
+            "HWThread": 50,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 57,
+            "Die": 0,
+            "HWThread": 51,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 26,
+            "Die": 0,
+            "HWThread": 52,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 58,
+            "Die": 0,
+            "HWThread": 53,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 27,
+            "Die": 0,
+            "HWThread": 54,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 59,
+            "Die": 0,
+            "HWThread": 55,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 28,
+            "Die": 0,
+            "HWThread": 56,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 60,
+            "Die": 0,
+            "HWThread": 57,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 29,
+            "Die": 0,
+            "HWThread": 58,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Available": "*",
+            "Core": 61,
+            "Die": 0,
+            "HWThread": 59,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 30,
+            "Die": 0,
+            "HWThread": 60,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 62,
+            "Die": 0,
+            "HWThread": 61,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 31,
+            "Die": 0,
+            "HWThread": 62,
+            "Socket": 0,
+            "Thread": 0
+        },
+        {
+            "Core": 63,
+            "Die": 0,
+            "HWThread": 63,
+            "Socket": 1,
+            "Thread": 0
+        },
+        {
+            "Core": 16,
+            "Die": 0,
+            "HWThread": 64,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 32,
+            "Die": 0,
+            "HWThread": 65,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 1,
+            "Die": 0,
+            "HWThread": 66,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 33,
+            "Die": 0,
+            "HWThread": 67,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 2,
+            "Die": 0,
+            "HWThread": 68,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 34,
+            "Die": 0,
+            "HWThread": 69,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 3,
+            "Die": 0,
+            "HWThread": 70,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 35,
+            "Die": 0,
+            "HWThread": 71,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 4,
+            "Die": 0,
+            "HWThread": 72,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 36,
+            "Die": 0,
+            "HWThread": 73,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 5,
+            "Die": 0,
+            "HWThread": 74,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 37,
+            "Die": 0,
+            "HWThread": 75,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 6,
+            "Die": 0,
+            "HWThread": 76,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 38,
+            "Die": 0,
+            "HWThread": 77,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 7,
+            "Die": 0,
+            "HWThread": 78,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 39,
+            "Die": 0,
+            "HWThread": 79,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 8,
+            "Die": 0,
+            "HWThread": 80,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 40,
+            "Die": 0,
+            "HWThread": 81,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 9,
+            "Die": 0,
+            "HWThread": 82,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 41,
+            "Die": 0,
+            "HWThread": 83,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 10,
+            "Die": 0,
+            "HWThread": 84,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 42,
+            "Die": 0,
+            "HWThread": 85,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 11,
+            "Die": 0,
+            "HWThread": 86,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 43,
+            "Die": 0,
+            "HWThread": 87,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 12,
+            "Die": 0,
+            "HWThread": 88,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 44,
+            "Die": 0,
+            "HWThread": 89,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 13,
+            "Die": 0,
+            "HWThread": 90,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 45,
+            "Die": 0,
+            "HWThread": 91,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 14,
+            "Die": 0,
+            "HWThread": 92,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 46,
+            "Die": 0,
+            "HWThread": 93,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 15,
+            "Die": 0,
+            "HWThread": 94,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 47,
+            "Die": 0,
+            "HWThread": 95,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 0,
+            "Die": 0,
+            "HWThread": 96,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 48,
+            "Die": 0,
+            "HWThread": 97,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 17,
+            "Die": 0,
+            "HWThread": 98,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 49,
+            "Die": 0,
+            "HWThread": 99,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 18,
+            "Die": 0,
+            "HWThread": 100,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 50,
+            "Die": 0,
+            "HWThread": 101,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 19,
+            "Die": 0,
+            "HWThread": 102,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 51,
+            "Die": 0,
+            "HWThread": 103,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 20,
+            "Die": 0,
+            "HWThread": 104,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 52,
+            "Die": 0,
+            "HWThread": 105,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 21,
+            "Die": 0,
+            "HWThread": 106,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 53,
+            "Die": 0,
+            "HWThread": 107,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 22,
+            "Die": 0,
+            "HWThread": 108,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 54,
+            "Die": 0,
+            "HWThread": 109,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 23,
+            "Die": 0,
+            "HWThread": 110,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 55,
+            "Die": 0,
+            "HWThread": 111,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 24,
+            "Die": 0,
+            "HWThread": 112,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 56,
+            "Die": 0,
+            "HWThread": 113,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 25,
+            "Die": 0,
+            "HWThread": 114,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 57,
+            "Die": 0,
+            "HWThread": 115,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 26,
+            "Die": 0,
+            "HWThread": 116,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 58,
+            "Die": 0,
+            "HWThread": 117,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 27,
+            "Die": 0,
+            "HWThread": 118,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 59,
+            "Die": 0,
+            "HWThread": 119,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 28,
+            "Die": 0,
+            "HWThread": 120,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 60,
+            "Die": 0,
+            "HWThread": 121,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 29,
+            "Die": 0,
+            "HWThread": 122,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Available": "*",
+            "Core": 61,
+            "Die": 0,
+            "HWThread": 123,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 30,
+            "Die": 0,
+            "HWThread": 124,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 62,
+            "Die": 0,
+            "HWThread": 125,
+            "Socket": 1,
+            "Thread": 1
+        },
+        {
+            "Core": 31,
+            "Die": 0,
+            "HWThread": 126,
+            "Socket": 0,
+            "Thread": 1
+        },
+        {
+            "Core": 63,
+            "Die": 0,
+            "HWThread": 127,
+            "Socket": 1,
+            "Thread": 1
+        }
+    ]
+}
