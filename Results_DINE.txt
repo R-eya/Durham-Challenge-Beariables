@@ -1,0 +1,5 @@
+DINE: 
+REAL CAPACITY MFlops/s:               1685.55
+THEORETICAL CAPACITY MFlops/s:               48732.78
+REAL BANDWIDTH MByte/s:                26968.82
+THEORETICAL BANDWIDTH MByte/s:                39376.16

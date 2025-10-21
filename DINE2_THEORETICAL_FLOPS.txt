@@ -1,0 +1,36 @@
+Warning: Sanitizing vector length to a multiple of the loop stride 8 and thread count 2 from 125000 elements (1000000 bytes) to 124992 elements (999936 bytes)
+Allocate: Process running on hwthread 60 (Domain N) - Vector length 124992/999936 Offset 0 Alignment 512
+Initialization: Each thread in domain initializes its own stream chunks
+--------------------------------------------------------------------------------
+LIKWID MICRO BENCHMARK
+Test: peakflops_avx512_fma
+--------------------------------------------------------------------------------
+Using 1 work groups
+Using 2 threads
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Group: 0 Thread 1 Global Thread 1 running on hwthread 124 - Vector length 62496 Offset 62496
+Group: 0 Thread 0 Global Thread 0 running on hwthread 60 - Vector length 62496 Offset 0
+--------------------------------------------------------------------------------
+Cycles:			5456196836
+CPU Clock:		2100020760
+Cycle Clock:		2100020760
+Time:			2.598163e+00 sec
+Iterations:		131072
+Iterations per thread:	65536
+Inner loop executions:	7812
+Size (Byte):		999936
+Size per thread:	499968
+Number of Flops:	245744271360
+MFlops/s:		94583.84
+Data volume (Byte):	65531805696
+MByte/s:		25222.36
+Cycles per update:	0.666082
+Cycles per cacheline:	5.328658
+Loads per update:	1
+Stores per update:	0
+Load bytes per element:	8
+Store bytes per elem.:	0
+Instructions:		19454754848
+UOPs:			18430820352
+--------------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 125000000/1000000000 Offset 0 Alignment 512
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 125000000/1000000000 Offset 0 Alignment 512
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 125000000/1000000000 Offset 0 Alignment 512
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 125000000/1000000000 Offset 0 Alignment 512
+Initialization: Each thread in domain initializes its own stream chunks
+--------------------------------------------------------------------------------
+LIKWID MICRO BENCHMARK
+Test: triad
+--------------------------------------------------------------------------------
+Using 1 work groups
+Using 2 threads
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Group: 0 Thread 0 Global Thread 0 running on hwthread 2 - Vector length 62500000 Offset 0
+Group: 0 Thread 1 Global Thread 1 running on hwthread 34 - Vector length 62500000 Offset 62500000
+--------------------------------------------------------------------------------
+Cycles:			28416261660
+CPU Clock:		2993567067
+Cycle Clock:		2993567067
+Time:			9.492442e+00 sec
+Iterations:		128
+Iterations per thread:	64
+Inner loop executions:	15625000
+Size (Byte):		4000000000
+Size per thread:	2000000000
+Number of Flops:	16000000000
+MFlops/s:		1685.55
+Data volume (Byte):	256000000000
+MByte/s:		26968.82
+Cycles per update:	3.552033
+Cycles per cacheline:	28.416262
+Loads per update:	3
+Stores per update:	1
+Load bytes per element:	24
+Store bytes per elem.:	8
+Load/store ratio:	3.00
+Instructions:		38000000016
+UOPs:			60000000000
+--------------------------------------------------------------------------------

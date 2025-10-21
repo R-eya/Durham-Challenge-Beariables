@@ -1,0 +1,39 @@
+Warning: Sanitizing vector length to a multiple of the loop stride 4 and thread count 2 from 166666666 elements (1333333328 bytes) to 166666664 elements (1333333312 bytes)
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 166666664/1333333312 Offset 0 Alignment 512
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 166666664/1333333312 Offset 0 Alignment 512
+Allocate: Process running on hwthread 2 (Domain N) - Vector length 166666664/1333333312 Offset 0 Alignment 512
+Initialization: Each thread in domain initializes its own stream chunks
+--------------------------------------------------------------------------------
+LIKWID MICRO BENCHMARK
+Test: stream_mem
+--------------------------------------------------------------------------------
+Using 1 work groups
+Using 2 threads
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Group: 0 Thread 1 Global Thread 1 running on hwthread 34 - Vector length 83333332 Offset 83333332
+Group: 0 Thread 0 Global Thread 0 running on hwthread 2 - Vector length 83333332 Offset 0
+--------------------------------------------------------------------------------
+Cycles:			19467413490
+CPU Clock:		2994343408
+Cycle Clock:		2994343408
+Time:			6.501396e+00 sec
+Iterations:		128
+Iterations per thread:	64
+Inner loop executions:	20833333
+Size (Byte):		3999999936
+Size per thread:	1999999968
+Number of Flops:	21333332992
+MFlops/s:		3281.35
+Data volume (Byte):	255999995904
+MByte/s:		39376.16
+Cycles per update:	1.825070
+Cycles per cacheline:	14.600560
+Loads per update:	2
+Stores per update:	1
+Load bytes per element:	16
+Store bytes per elem.:	8
+Load/store ratio:	2.00
+Instructions:		50666665873
+UOPs:			58666665728
+--------------------------------------------------------------------------------
