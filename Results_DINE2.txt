@@ -1,0 +1,6 @@
+DINE2 Results
+THEORETICAL MFlops/s:               94583.84
+REAL MFlops/s:               1480.55
+THEORETICAL MByte/s:                30081.15
+REAL MByte/s:                23688.76
+
