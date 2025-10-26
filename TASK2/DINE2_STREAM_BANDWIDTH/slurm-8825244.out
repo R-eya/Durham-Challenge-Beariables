@@ -1,0 +1,38 @@
+====
+Starting job 8825244 at Wed 22 Oct 12:27:07 BST 2025 for user dc-vica1.
+Running on nodes: gc002
+====
+rm: cannot remove 'stream_omp': No such file or directory
+-------------------------------------------------------------
+STREAM version $Revision: 5.10 $
+-------------------------------------------------------------
+This system uses 8 bytes per array element.
+-------------------------------------------------------------
+Array size = 110000000 (elements), Offset = 0 (elements)
+Memory per array = 839.2 MiB (= 0.8 GiB).
+Total memory required = 2517.7 MiB (= 2.5 GiB).
+Each kernel will be executed 10 times.
+ The *best* time for each kernel (excluding the first iteration)
+ will be used to compute the reported bandwidth.
+-------------------------------------------------------------
+Number of Threads requested = 24
+Number of Threads counted = 24
+-------------------------------------------------------------
+Your clock granularity/precision appears to be 1 microseconds.
+Each test below will take on the order of 10241 microseconds.
+   (= 10241 clock ticks)
+Increase the size of the arrays if this shows that
+you are not getting at least 20 clock ticks per test.
+-------------------------------------------------------------
+WARNING -- The above is only a rough guideline.
+For best results, please be sure you know the
+precision of your system timer.
+-------------------------------------------------------------
+Function    Best Rate MB/s  Avg time     Min time     Max time
+Copy:          166414.4     0.010602     0.010576     0.010640
+Scale:         114687.5     0.015403     0.015346     0.015583
+Add:           136048.2     0.019464     0.019405     0.019866
+Triad:         136329.6     0.019451     0.019365     0.019861
+-------------------------------------------------------------
+Solution Validates: avg error less than 1.000000e-13 on all three arrays
+-------------------------------------------------------------
